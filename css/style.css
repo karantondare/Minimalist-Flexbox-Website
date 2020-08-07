@@ -11,10 +11,6 @@ img {
   display: block;
 }
 
-/* =================
-Typography
-================= */
-
 h1,
 h2,
 h3 {
@@ -46,7 +42,6 @@ strong {
   font-weight: 700;
 }
 
-/* h1 subtitle */
 .subtitle {
   font-weight: 700;
   color: #1792d2;
@@ -95,10 +90,6 @@ strong {
   color: #143774;
 }
 
-/* =================
-Layout
-================= */
-
 .container {
   width: 90%;
   max-width: 900px;
@@ -140,8 +131,6 @@ footer {
     margin-left: 1em;
   }
 }
-
-/* navigation */
 
 nav ul {
   list-style: none;
@@ -186,7 +175,6 @@ nav a:focus {
   }
 }
 
-/* articles */
 
 .article-featured {
   border-bottom: #707070 1px solid;
@@ -239,8 +227,6 @@ nav a:focus {
   }
 }
 
-/* widgets */
-
 .sidebar-widget {
   border: 20px solid #efefef;
   margin-bottom: 2em;
@@ -264,7 +250,6 @@ nav a:focus {
   margin-bottom: 1em;
 }
 
-/* about me */
 .image-full {
   width: 100%;
   max-height: 300px;
